@@ -67,6 +67,7 @@ onceview-wabot/
 
 ## Cara Penggunaan
 * **Perintah Utama**:
+  * Ini fiturnya udah bisa automatis,jadi kalau ada yang mengirim onceview ,langsung bisa masuk di wa pribadi
   * `!onceview` (obrolan pribadi) atau `?onceview` (grup): Mengekstrak pesan sekali lihat dan mengirimkannya ke pemilik.
   * Di dalam grup, hanya administrator yang dapat menggunakannya dan dibatasi satu kali eksekusi untuk setiap grup.
 
