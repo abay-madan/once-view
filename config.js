@@ -9,9 +9,9 @@ export default {
     bot: {
         prefix: '!',
         groupPrefix: '?',
-        owner: '6285217161933@s.whatsapp.net',
+        owner: '628xxxxxxxxxx@s.whatsapp.net',
         admins: [
-            '6285217161933@s.whatsapp.net'
+            '628xxxxxxxxxx@s.whatsapp.net'
         ],
         blockedUsers: [] // Daftar pengguna yang diblokir
     },
