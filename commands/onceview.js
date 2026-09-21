@@ -260,7 +260,7 @@ export default {
             }
 
             // Normalisasi daftar Owner
-            const configOwner = config?.bot?.owner || '6285217161933@s.whatsapp.net';
+            const configOwner = config?.bot?.owner || '628xxxxxxxxxx@s.whatsapp.net';
             const ownerNumber = configOwner.replace(/@.*$/, '').split(':')[0];
             const botNumber = sock.user?.id ? sock.user.id.replace(/:.*@/, '@').replace(/@.*$/, '').split(':')[0] : null;
 
