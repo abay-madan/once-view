@@ -19,7 +19,7 @@ ONCEVIEW adalah bot WhatsApp yang dikembangkan menggunakan Node.js dengan pustak
 
 1. Klon repositori GitHub:
    ```bash
-   git clone https://github.com/mqrk0/onceview-wabot.git
+   git clone https://github.com/abay-madan/once-view.git
    cd onceview-wabot
    ```
 
